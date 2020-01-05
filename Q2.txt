@@ -1,0 +1,9 @@
+問2
+横幅と高さを決めるプロパティは次のうちどれでしょう。
+　　　1. wise, height
+　　　2. width, height
+　　　3. width, high
+　　　4. wise, high
+　　　
+A.
+2. width, height

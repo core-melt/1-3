@@ -1,0 +1,9 @@
+問4
+<div>タグ内に2つの<div>タグが含まれるように、HTMLを記述してください。
+A.
+
+<div class="box1">
+	<div class="box2"></div>
+</div>
+
+
